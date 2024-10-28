@@ -6,7 +6,6 @@
 #define SW_PIN 12   // Pino para o botão do encoder (Marrom)
 
 // Variáveis de estado
-int clkState, dtState;  // Estados atuais dos pinos
 int clkLastState = HIGH;  // Estado anterior do CLK
 bool processado = false;  // Para evitar comandos duplicados
 unsigned long lastDebounceTime = 0;  // Tempo do último evento

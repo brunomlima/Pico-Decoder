@@ -3,7 +3,8 @@
 Este projeto demonstra como utilizar o **Raspberry Pi Pico** em conjunto com um **encoder rotativo**, detectando o sentido da rotação (horário e anti-horário) e cliques no botão do encoder.
 
 ## 🔧 **Componentes Utilizados:**
-- **Raspberry Pi Pico 1 Series** - PROD13/PROD19/PROD23 [aqui](https://shpe.site/tecnologiaetrecos)  
+- **Raspberry Pi Pico 1 Series - Sei soldar e tenhos os equipamentos necessário** - PROD13/PROD19/PROD23 (Precisa soldar a barra de conectores marchos) [aqui](https://shpe.site/tecnologiaetrecos)  
+- **Raspberry Pi Pico 1 Series - Não sei soldar** - PROD40 (Obs.: Escolha a A2 opção Micro USB com a barra de conectores marchos soldada) [aqui](https://shpe.site/tecnologiaetrecos)  
 - **Protoboard** - PROD38 [aqui](https://shpe.site/tecnologiaetrecos)  
 - **Encoder rotativo (CLK, DT, SW)** - PROD36 [aqui](https://shpe.site/tecnologiaetrecos)  
 - **5 Jumpers M x M** - PROD35 [aqui](https://shpe.site/tecnologiaetrecos)  
