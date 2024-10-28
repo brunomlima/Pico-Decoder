@@ -40,11 +40,11 @@ O código em C++ foi desenvolvido na plataforma Arduino. Ele realiza a leitura d
 
 ## 🚀 **Como Usar**
 1. Monte o circuito conforme o diagrama acima:  
-   - **CLK** -> GPIO 10  - Pino 14 - 
-   - **DT** -> GPIO 11  - Pino 15
-   - **SW** -> GPIO 12  - Pino 16
-   - **GND** -> Ground - Pino 18  
-   - **3v3 Out** -> Ground - Pino 36  
+   - **CLK** -> GPIO 10  - Pino 14 - Jumper Amarelo
+   - **DT** -> GPIO 11  - Pino 15 - Jumper Laranja
+   - **SW** -> GPIO 12  - Pino 16 - Jumper Marrom
+   - **GND** -> Ground - Pino 18 - Jumper Verde
+   - **3v3 Out** -> Ground - Pino 36  - Jumper vermelho
 
 2. Carregue o código `.ino` no Raspberry Pi Pico usando a IDE Arduino.
 3. Abra o **Serial Monitor** (com baud rate 115200) para visualizar as informações de rotação e cliques.
