@@ -11,7 +11,7 @@ Este projeto demonstra como utilizar o **Raspberry Pi Pico** em conjunto com um 
 
 ---
 
-## ⚡ **Ligaçãos**
+## ⚡ **Ligações**
 Abaixo estão as imagens do circuito montado na protoboard:
 
 ![Ligação 1](./img/img1.jpg)  
