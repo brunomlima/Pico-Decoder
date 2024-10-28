@@ -20,6 +20,7 @@ O código em C++ foi desenvolvido na plataforma Arduino. Ele realiza a leitura d
 3. Abra o monitor serial (115200 baud) para ver as informações da rotação e cliques.
 
 ## 📂 **Download do Código**
-Você pode baixar o código diretamente [aqui](./Pico-Decoder.ino) ou cloná-lo para o seu computador:
+Você pode baixar o código diretamente [aqui](./Pico-Decoder/blob/main/PICO_BOTAO_DECODER/PICO_BOTAO_DECODER.ino) ou cloná-lo para o seu computador:
+
 ```bash
 git clone https://github.com/seu-usuario/Pico-Decoder.git
